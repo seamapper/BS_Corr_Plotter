@@ -1,0 +1,32 @@
+# Python cache / bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.spec.bak
+
+# Installer/package artifacts
+*.exe
+*.msi
+*.pkg
+*.zip
+
+# Logs / temp
+*.log
+*.tmp
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
