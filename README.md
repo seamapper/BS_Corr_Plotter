@@ -1,6 +1,6 @@
 # BS Corr Plotter
 
-![BS Corr Plotter Overview](media/BS%20Corr%20Plotter%20example.png)
+![BS Corr Plotter Overview](build/BS_corr_plotter/media/BS%20Corr%20Plotter%20example.png)
 *BS Corr Plotter overview*
 Example backscatter calibration values for each swath in Deeper mode.
 
